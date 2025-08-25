@@ -1,4 +1,5 @@
-[![MasterHead](![Image](https://github.com/user-attachments/assets/e65c9a76-0cae-4892-ad3d-6b03218ad906))](https://thehamzabilal.com)
+[![MasterHead](https://github.com/user-attachments/assets/e65c9a76-0cae-4892-ad3d-6b03218ad906)](https://thesameerbaig.com)
+
 <h1 align="center">Hi 👋, I'm Sameer Baig</h1>
 <h3 align="center">AI/ML Engineer | Generative & Local AI Modeling and Chatbot Expert</h3>
 
